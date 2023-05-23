@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 
-## <p align="inline">My GitHub States</p>
+## <p align="inline">My GitHub Stats</p>
 
 <p align="inline">
 
