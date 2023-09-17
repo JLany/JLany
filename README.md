@@ -18,7 +18,7 @@ Hey, it's me, Yousef Kilany. I'm currently pursuing a bachelor degree in Compute
 - MS SQL Server
 - Networking
 - Algorithms
-
+<!--
 ## 👨🏻‍💻 Projects I made
 
 ### 🎨 Hobby projects
@@ -84,3 +84,4 @@ Hey, it's me, Yousef Kilany. I'm currently pursuing a bachelor degree in Compute
 
 - [Chat room through TCP network](https://github.com/KareemMAX/ClientServer)
 - [SMTP Emulator](https://github.com/KareemMAX/SMTP-Emulator)
+-->
