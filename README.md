@@ -1,6 +1,6 @@
 # Hi there 👋 I am Yousef Kilany
 
-![Linkedin Badge](https://img.shields.io/badge/-YousefKilany-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yousef-kilany-686b8123a/)
+[![Linkedin Badge](https://img.shields.io/badge/-YousefKilany-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yousef-kilany-686b8123a/)](https://www.linkedin.com/in/yousef-kilany-686b8123a/)
 
 Hey, it's me, Yousef Kilany. I'm currently pursuing a bachelor degree in Computer Science at [Cairo University](https://cu.edu.eg/Home). A passionate student who wants to explore new grounds and ideas.
 
