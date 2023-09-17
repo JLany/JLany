@@ -18,7 +18,7 @@ Hey, it's me, Yousef Kilany. I'm currently pursuing a bachelor degree in Compute
 - MS SQL Server
 - Networking
 - Algorithms
-<!--
+<!---
 ## 👨🏻‍💻 Projects I made
 
 ### 🎨 Hobby projects
