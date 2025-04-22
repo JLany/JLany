@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer & Computer S
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 
-
+<!--
 <span align="left">
 
   ## 📊 GitHub Analytics
@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer & Computer S
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JLany&theme=dark)](https://git.io/streak-stats)
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JLany&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
-
+-->
 
 - [Click here](https://github.com/JLany?tab=repositories): to find all of my repos 
 
